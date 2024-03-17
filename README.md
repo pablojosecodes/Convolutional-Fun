@@ -17,4 +17,4 @@ Some replications I've included
 - Original LeNet architecture
 - VGG finetuning sample
 
-I've also put together a little demo of adversarial example construction- turns out it's pretty easy to fool even the most robust classifiers into thinking a "5" is a "1". Just takes some manipulatino of gradients.
+I've also put together a little demo on constructing adversarial examples- turns out it's pretty easy to fool even the most robust classifiers into thinking a "5" is a "1". Just takes some gradient manipulation.
